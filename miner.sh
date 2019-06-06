@@ -40,7 +40,7 @@ if [[ "$resposta" = '1' ]]; then
         #https://github.com/wolf9466/cpuminer-multi
         #https://github.com/haborynn/backupss
         #git clone https://github.com/paulo-mesquita/cpuminer-multi
-        #git clone https://github.com/LucasJones/cpuminer-multi
+        git clone https://github.com/LucasJones/cpuminer-multi
         cd cpuminer-multi
 	chmod +x ./autogen.sh
         ./autogen.sh
